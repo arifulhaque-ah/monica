@@ -1,0 +1,8 @@
+README.md
+app/Domains/Contact/ManageContact/Api/Controllers/ContactController.php
+app/Http/Resources/ContactResource.php
+database/migrations/2026_07_07_065236_add_favorite_and_note_to_contacts_table.php
+routes/api.php
+test-screenshots/favorite-contact.PNG
+test-screenshots/filter-favorite-contacts.PNG
+test-screenshots/update-personal-note.PNG
